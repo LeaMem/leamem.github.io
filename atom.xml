@@ -37,24 +37,4 @@
     
   </entry>
   
-  <entry>
-    <title>init_blog</title>
-    <link href="https://leamem.com/08/05/2019/init-blog/"/>
-    <id>https://leamem.com/08/05/2019/init-blog/</id>
-    <published>2019-05-08T07:52:03.000Z</published>
-    <updated>2019-05-09T03:51:20.704Z</updated>
-    
-    <content type="html"><![CDATA[<p>反反复复的弄这个博客，还是不行</p><a id="more"></a>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;反反复复的弄这个博客，还是不行&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Scala" scheme="https://leamem.com/categories/Scala/"/>
-    
-    
-  </entry>
-  
 </feed>
